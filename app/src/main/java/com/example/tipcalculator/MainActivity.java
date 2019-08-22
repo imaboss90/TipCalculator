@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
         // add the two ints
         int perc = tip/100;
         int sum = bill * perc;
+        int coconut = 0;
 
         // set the text for the answer
         finalBillView.setText(""+sum);
