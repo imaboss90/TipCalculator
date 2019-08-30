@@ -2,7 +2,6 @@
 <resources>
     <dimen name="padding"> 10dp </dimen>
     <dimen name="labelTextSize">30sp </dimen>
-    <dimen name="smallTextSize"> </dimen>
+    <dimen name="margin">10dp </dimen>
     <dimen name="editTextWidth">30sp</dimen>
-    <dimen name="seekBarWidth"> </dimen>
 </resources>
